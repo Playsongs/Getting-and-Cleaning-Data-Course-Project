@@ -1,4 +1,4 @@
-# Codebook for runanalysis.R
+# Codebook for run_analysis.R
 ## Input files
 features.txt - Column names for the collected data
 
