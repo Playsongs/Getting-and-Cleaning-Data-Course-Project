@@ -6,7 +6,7 @@ activity_labels.txt - Activity ID's with corresponding activity name
 
 For both the train and test data the following 3 files in their own train or test directory
 
-x_train/test.txt - The observation data 
+x_train/test.txt - The 561 observation data points
 
 subject_train/test.txt - The subject number corresponding to the observation data
 
